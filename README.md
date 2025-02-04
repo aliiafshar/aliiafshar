@@ -31,7 +31,6 @@
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![CloudLinux](https://img.shields.io/badge/CloudLinux-2C86C1?style=for-the-badge&logo=cloudlinux&logoColor=white)
 ![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,7 +41,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -62,7 +60,8 @@
 ![uwsgi](https://img.shields.io/badge/uwsgi-666666?style=for-the-badge&logo=uwsgi&logoColor=white)
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Prestashop](https://img.shields.io/badge/PrestaShop-6F25A1?style=for-the-badge&logo=prestashop&logoColor=white)
+![PrestaShop](https://img.shields.io/badge/PrestaShop-6F25A1?style=for-the-badge&logo=PrestaShop&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Corel](https://img.shields.io/badge/Corel-009F66?style=for-the-badge&logo=corel&logoColor=white)
