@@ -23,7 +23,7 @@
 ---
 ## 🛠️ My skills:
 ```
-> Bash | Linux | Python | JavaScript | Node.js | React | MySQL | Swift | Nginx | Apache | LPIC1 | LPIC2 | NETWORK+ | Laravel | PHP | TailwindCSS | Cpanel | Zabbix | AutoCAD 2D | Corel | DigitalOcean | Bootstrap | jQuery | NPM | Yarn | WordPress | uwsgi | Prestashop | Proxmox | CloudLinux | Rocky Linux | WHMCS | CentOS | Kali Linux | Ubuntu
+> Bash | Linux | CentOS | Ubuntu | Kali Linux | Rocky Linux | Python | JavaScript | PHP | Swift | Node.js | React | Laravel | WordPress | Prestashop | Bootstrap | TailwindCSS | jQuery | MySQL | Nginx | Apache | uwsgi | WHMCS | Proxmox | DigitalOcean | Cpanel | Zabbix | LPIC1 | LPIC2 | NETWORK+ | AutoCAD 2D | Corel | Yarn | NPM
 
 ```
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
