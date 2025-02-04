@@ -1,5 +1,5 @@
 ```
-# 💀 Ali Afshar - Cyber Specialist 💀
+# 💀 Ali Afshar - Server Specialist, Intermediate Developer 💀
 
 ```diff
 + "Code is my weapon, the shell is my shield"
@@ -8,9 +8,11 @@
 ## 🔗 Connect with me:
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aliafshar)
 [![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudocode.ir)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_yp3r)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9370125/)
 
 ---
-## 🛠️ My Arsenal:
+## 🛠️ My skills:
 ```
 > Bash  |  Linux  |  Python  |  JavaScript  |  Node.js  |  React  |  MySQL
 ```
