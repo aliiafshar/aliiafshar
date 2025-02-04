@@ -19,7 +19,7 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_yp3r)
 
 ---
-## 🛠️ My Arsenal:
+## 🛠️ My skills:
 ```
 > Bash  |  Linux  |  Python  |  JavaScript  |  Node.js  |  React  |  MySQL  |  Swift  |  Nginx  |  Apache2  |  LPIC1  |  LPIC2  |  NETWORK+  |  Laravel9  |  PHP  |  TailwindCSS  |  Cpanel  |  Zabbix  |  AutoCAD 2D  |  Corel
 ```
