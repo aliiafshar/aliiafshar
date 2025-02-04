@@ -6,8 +6,8 @@
 ```
 ---
 ## 🔗 Connect with me:
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aliafshar)
 [![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudocode.ir)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aliafshar)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_yp3r)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9370125/)
 
