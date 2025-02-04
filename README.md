@@ -43,5 +43,5 @@
 
 ---
 ```diff
-+ "Hacked Reality - Enter at Your Own Risk"
++ "Reality Hacked - Enter at Your Own Risk"
 ```
