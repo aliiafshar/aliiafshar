@@ -13,10 +13,11 @@
 ```
 ---
 ## 🔗 Connect with me:
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9370125/)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/aliafshar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sudocode.ir)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/_yp3r)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=plastic&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9370125/)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=plastic&logo=codepen&logoColor=white)](https://codepen.io/aliafshar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/sudocode.ir)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discord.com/users/_yp3r)
+
 
 
 ---
