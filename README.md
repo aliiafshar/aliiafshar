@@ -28,7 +28,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![CloudLinux](https://img.shields.io/badge/CloudLinux-2C86C1?style=for-the-badge&logo=cloudlinux&logoColor=white)
-![Roxylinux](https://img.shields.io/badge/Roxylinux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Rockylinux](https://img.shields.io/badge/Rockylinux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
