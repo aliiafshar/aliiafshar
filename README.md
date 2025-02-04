@@ -13,24 +13,26 @@
 ```
 ---
 ## 🔗 Connect with me:
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9370125/)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aliafshar)
-[![Instagram](https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sudocode.ir)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_yp3r)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9370125/)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/aliafshar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/sudocode.ir)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/_yp3r)
+
 
 ---
 ## 🛠️ My skills:
 ```
-> Bash  |  Linux  |  Python  |  JavaScript  |  Node.js  |  React  |  MySQL  |  Swift  |  Nginx  |  Apache2  |  LPIC1  |  LPIC2  |  NETWORK+  |  Laravel9  |  PHP  |  TailwindCSS  |  Cpanel  |  Zabbix  |  AutoCAD 2D  |  Corel
+> Bash | Linux | Python | JavaScript | Node.js | React | MySQL | Swift | Nginx | Apache | LPIC1 | LPIC2 | NETWORK+ | Laravel | PHP | TailwindCSS | Cpanel | Zabbix | AutoCAD 2D | Corel | DigitalOcean | Bootstrap | jQuery | NPM | Yarn | WordPress | uwsgi | Prestashop | Proxmox | CloudLinux | Rocky Linux | WHMCS | CentOS | Kali Linux | Ubuntu
+
 ```
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![CloudLinux](https://img.shields.io/badge/CloudLinux-2C86C1?style=for-the-badge&logo=cloudlinux&logoColor=white)
-![Rockylinux](https://img.shields.io/badge/Rockylinux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -63,6 +65,7 @@
 
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Corel](https://img.shields.io/badge/Corel-009F66?style=for-the-badge&logo=corel&logoColor=white)
+
 
 
 ---
