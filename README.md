@@ -7,7 +7,7 @@
 ⠀⠀⠀⠈⠁⠀⠀⠀
 ```
 # 💀 Ali Afshar - Server Specialist, Intermediate Developer 💀
-### Member of [Sudocode](https://instagram.com/sudocode.ir)
+### Member of [Sudocode](https://sudocode.org)
 ```diff
 + "Code is my weapon, the shell is my shield"
 ```
