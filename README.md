@@ -23,7 +23,7 @@
 ---
 ## 🛠️ My skills:
 ```
-> Bash | Linux | CentOS | Ubuntu | Kali Linux | Rocky Linux | Python | JavaScript | PHP | Swift | Node.js | React | Laravel | WordPress | Prestashop | Bootstrap | TailwindCSS | jQuery | MySQL | Nginx | Apache | uwsgi | WHMCS | Proxmox | DigitalOcean | Cpanel | Zabbix | LPIC1 | LPIC2 | NETWORK+ | AutoCAD 2D | Corel | Yarn | NPM
+> Bash | Linux | CentOS | Ubuntu | Kali Linux | Rocky Linux | Python | JavaScript | PHP | Swift | Node.js | React | Laravel | WordPress | Prestashop | Bootstrap | TailwindCSS | jQuery | MySQL | Nginx | Apache | uwsgi | WHMCS | Proxmox | DigitalOcean | Cpanel | DirectAdmin | Zabbix | LPIC1 | LPIC2 | NETWORK+ | AutoCAD 2D | Corel | Yarn | NPM
 
 ```
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -45,6 +45,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Cpanel](https://img.shields.io/badge/Cpanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![DirectAdmin](https://img.shields.io/badge/DirectAdmin-1572B6?style=for-the-badge&logo=directadmin&logoColor=white)
 ![WHMCS](https://img.shields.io/badge/WHMCS-6A4CFF?style=for-the-badge&logo=whmcs&logoColor=white)
 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
