@@ -4,10 +4,6 @@
 
 
 ## 🛠️ My skills:
-```
-> Bash | Linux | CentOS | Ubuntu | Kali Linux | Rocky Linux | Python | JavaScript | PHP | Swift | Node.js | React | Laravel | WordPress | Prestashop | Bootstrap | TailwindCSS | jQuery | MySQL | Nginx | Apache | uwsgi | WHMCS | Proxmox | DigitalOcean | Cpanel | DirectAdmin | Zabbix | LPIC1 | LPIC2 | NETWORK+ | AutoCAD 2D | Corel | Yarn | NPM
-
-```
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
