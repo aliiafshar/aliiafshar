@@ -1,12 +1,3 @@
-
-⠀⢀⣠⣤⣤⣄⡀⠀
-⣴⣿⣿⣿⣿⣿⣿⣦
-⣿⣿⣿⣿⣿⣿⣿⣿
-⣇⠈⠉⡿⢿⠉⠁⢸
-⠙⠛⢻⣷⣾⡟⠛⠋
-⠀⠀⠀⠈⠁⠀⠀⠀
-
-
 #  Ali Afshar - Server Specialist, Intermediate Developer 
 ### Member of [Sudocode](https://sudocode.org)
 
