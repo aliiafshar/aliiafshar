@@ -1,16 +1,11 @@
 #  Ali Afshar - Server Specialist, Intermediate Developer 
 ### Member of [Sudocode](https://sudocode.org)
 
-> "Code is my weapon, the shell is my shield"
-
----
 ## 🔗 Connect
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?logo=stackoverflow)](https://stackoverflow.com/users/9370125/)
-[![CodePen](https://img.shields.io/badge/CodePen-000?logo=codepen)](https://codepen.io/aliafshar)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://instagram.com/sudocode.ir)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord)](https://discord.com/users/_yp3r)
 
----
+
 ## 🛠️ My skills:
 ```
 > Bash | Linux | CentOS | Ubuntu | Kali Linux | Rocky Linux | Python | JavaScript | PHP | Swift | Node.js | React | Laravel | WordPress | Prestashop | Bootstrap | TailwindCSS | jQuery | MySQL | Nginx | Apache | uwsgi | WHMCS | Proxmox | DigitalOcean | Cpanel | DirectAdmin | Zabbix | LPIC1 | LPIC2 | NETWORK+ | AutoCAD 2D | Corel | Yarn | NPM
@@ -59,7 +54,7 @@
 
 
 
----
+
 ```diff
 + "Reality Hacked - Enter at Your Own Risk"
 ```
