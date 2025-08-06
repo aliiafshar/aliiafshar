@@ -1,8 +1,5 @@
 #  Ali Afshar - Server Specialist, Intermediate Developer 
 ### Member of [Sudocode](https://sudocode.org)
-
-## 🔗 Connect
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?logo=stackoverflow)](https://stackoverflow.com/users/9370125/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram)](https://instagram.com/sudocode.ir)
 
 
